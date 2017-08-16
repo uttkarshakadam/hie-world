@@ -1,0 +1,6 @@
+t1=(1,2,3)
+print(t1)
+t2=(4,)
+print(t2)
+t3=()
+print(t3)
